@@ -10,3 +10,6 @@ I am much a beginner bot developer.
 # Creator
 Made by mzn#7933
 Check out my website https://invismind.net
+
+# Invitation
+If you wanna invite this bot to your discord server just put in (https://discord.com/api/oauth2/authorize?client_id=722223354320519278&permissions=8&scope=bot) into your browser.
