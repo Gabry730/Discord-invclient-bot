@@ -3,5 +3,10 @@
 ![Framework](https://img.shields.io/badge/Framework-Discord.js-dodgerblue?style=for-the-badge&logo=discord)
 
 # Description
-My public bot i have made for people use keep in mind i am not the best 
-Node/Discord/JavaScript developer i am much a beginner
+A public bot I have made for people to use. 
+Keep in mind I am not the best Node/Discord/JavaScript developer. 
+I am much a beginner bot developer.
+
+# Creator
+Made by mzn#7933
+Check out my website https://invismind.net
