@@ -1,0 +1,8 @@
+{
+    "bot": {
+        "name": "InvClient",
+        "version": "Beta v1.0.0",
+        "command": ".inv ",
+        "url": "https://invismind.net"
+    }
+}
