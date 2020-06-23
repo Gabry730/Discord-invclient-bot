@@ -7,7 +7,7 @@ const FileSystem = require('fs');
 const client = new Discord.Client();
 
 // Variables
-const token = 'NzIyMjIzMzU0MzIwNTE5Mjc4.Xuf88A.P5slq7NTC4Ag01eoIznrBNjbGFY';
+const token = 'Your Token';
 const help = new Discord.MessageEmbed()
     .setColor('#0099ff')
 	.setTitle(Settings.bot.name + " | " + Settings.bot.version)
