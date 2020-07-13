@@ -8,7 +8,7 @@ Keep in mind I am not the best Node/Discord/JavaScript developer.
 I am much a beginner bot developer.
 
 # Creator
-Made by mzn#7933
+Made by grace#7933
 Check out my website https://invismind.net
 
 # Setup
