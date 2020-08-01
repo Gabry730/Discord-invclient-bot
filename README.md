@@ -3,16 +3,15 @@
 [![Framework](https://img.shields.io/badge/Framework-Discord.js-dodgerblue?style=for-the-badge&logo=discord)](https://discord.js.org)
 
 # Description
-A public bot I have made for people to use. 
-Keep in mind I am not the best Node/Discord/JavaScript developer. 
-I am much a beginner bot developer.
+My first bot/public bot released Open-Source to github
 
 # Creator
 Made by grace#7933
-Check out my website https://invismind.net
 
 # Setup
 1. Make new application
-2. copy token and set token in settings.json
-3. Make new folder called data
-4. Start and your done!
+2. Make a new bot in the 'bot' section
+3. copy the token from the bot application and set the token in settings.json to your bot token
+4. Make new folder called data in the directory where you want the bot to be hosted
+5. Start the bot and your done!
+6. Make any changes you want to
