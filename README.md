@@ -15,3 +15,6 @@ Made by grace#7933
 4. Make new folder called data in the directory where you want the bot to be hosted
 5. Start the bot and your done!
 6. Make any changes you want to
+
+# Support 
+Star my repository to and follow me support me
