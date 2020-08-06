@@ -1,6 +1,6 @@
 # invClient
-[![Language](https://img.shields.io/badge/Language-Node.js-green?style=for-the-badge&logo=node.js)](https://nodejs.org)
-[![Framework](https://img.shields.io/badge/Framework-Discord.js-dodgerblue?style=for-the-badge&logo=discord)](https://discord.js.org)
+[![Language](https://img.shields.io/badge/Language-Node.js-green)](https://nodejs.org)
+[![Framework](https://img.shields.io/badge/Framework-Discord.js_v12.2.0-dodgerblue)](https://discord.js.org)
 
 # Description
 My first bot/public bot released Open-Source to github
