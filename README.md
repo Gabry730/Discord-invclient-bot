@@ -6,7 +6,7 @@
 My first bot/public bot released Open-Source to github
 
 # Creator
-Made by grace#7933
+Made by SlayerInc
 
 # Setup
 1. Make new application
