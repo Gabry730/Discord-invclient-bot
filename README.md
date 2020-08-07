@@ -17,4 +17,4 @@ Made by SlayerInc
 6. Make any changes you want to
 
 # Support 
-Star my repository to and follow me support me
+Star my repository and follow me. to support me! :D
