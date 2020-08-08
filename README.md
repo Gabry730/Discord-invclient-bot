@@ -1,4 +1,4 @@
-# invClient
+# Discord-invClient-bot
 [![Language](https://img.shields.io/badge/Language-Node.js-green)](https://nodejs.org)
 [![Framework](https://img.shields.io/badge/Framework-Discord.js_v12.2.0-dodgerblue)](https://discord.js.org)
 
